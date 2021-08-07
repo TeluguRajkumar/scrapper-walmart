@@ -1,0 +1,240 @@
+date,ranking,brand,name,price,num_reviews,rating
+2020-01-28,1,Clorox wipe,Clorox dis-infecting wipes,4.48,203,4.8
+2020-01-28,2,Crisp,Crisp Lemon,4.58,115,4.7
+2020-01-28,3,Deo,Fresh Scent,3.98,44,4.8
+2020-02-28,4,Clorox wipe,Clorox dis-infecting wipes,4.48,34,4.7
+2020-02-28,5,Crisp,Crisp Lemon,2.24,71,4.6
+2020-02-28,6,Deo,Fresh Scent,4.48,19,4.6
+2020-02-28,7,Clorox wipe,Clorox dis-infecting wipes,4.58,46,4.9
+2020-02-28,8,Crisp,Crisp Lemon,4.58,61,4.8
+2020-02-28,9,Deo,Fresh Scent,3.98,59,4.9
+2020-02-28,10,Clorox wipe,Clorox dis-infecting wipes,2.24,59,4.3
+2020-02-28,11,Crisp,Crisp Lemon,3.68,31,4.7
+2020-02-28,12,Deo,Fresh Scent,4.48,104,4.8
+2020-02-28,13,Clorox wipe,Clorox dis-infecting wipes,2.48,0,0.0
+2020-02-28,14,Crisp,Crisp Lemon,2.5,33,3.3
+2020-03-28,15,Deo,Fresh Scent,3.68,46,4.7
+2020-03-28,16,Clorox wipe,Clorox dis-infecting wipes,3.98,16,4.8
+2020-03-28,17,Crisp,Crisp Lemon,2.98,11,4.6
+2020-03-28,18,Deo,Fresh Scent,2.98,203,4.8
+2020-03-28,19,Clorox wipe,Clorox dis-infecting wipes,3.5,22,4.3
+2020-03-28,20,Crisp,Crisp Lemon,3.74,11,4.3
+2020-03-28,1,Deo,Fresh Scent,2.82,17,4.8
+2020-03-28,2,Clorox wipe,Clorox dis-infecting wipes,4.48,203,4.8
+2020-03-28,3,Crisp,Crisp Lemon,3.98,51,4.6
+2020-03-28,4,Deo,Fresh Scent,2.24,71,4.6
+2020-03-28,5,Clorox wipe,Clorox dis-infecting wipes,3.52,185,4.8
+2020-03-28,6,Crisp,Crisp Lemon,3.98,59,4.9
+2020-04-28,7,Deo,Fresh Scent,2.98,203,4.8
+2020-04-28,8,Clorox wipe,Clorox dis-infecting wipes,3.98,61,4.8
+2020-04-28,9,Crisp,Crisp Lemon,2.74,41,4.4
+2020-04-28,10,Deo,Fresh Scent,2.5,33,3.3
+2020-04-28,11,Clorox wipe,Clorox dis-infecting wipes,3.98,123,4.8
+2020-04-28,12,Crisp,Crisp Lemon,2.98,11,4.6
+2020-04-28,13,Deo,Fresh Scent,2.42,16,4.8
+2020-04-28,14,Clorox wipe,Clorox dis-infecting wipes,2.48,0,0.0
+2020-04-28,15,Crisp,Crisp Lemon,3.68,46,4.7
+2020-04-28,16,Deo,Fresh Scent,3.74,25,4.7
+2020-04-28,17,Clorox wipe,Clorox dis-infecting wipes,2.98,31,4.4
+2020-04-28,18,Crisp,Crisp Lemon,3.74,49,4.7
+2020-04-28,19,Deo,Fresh Scent,2.48,21,5.0
+2020-04-28,20,Clorox wipe,Clorox dis-infecting wipes,5.76,45,4.9
+2020-05-28,1,Crisp,Crisp Lemon,4.48,203,4.8
+2020-05-28,2,Deo,Fresh Scent,4.58,116,4.7
+2020-05-28,3,Clorox wipe,Clorox dis-infecting wipes,3.98,44,4.8
+2020-05-28,4,Crisp,Crisp Lemon,4.48,34,4.7
+2020-05-28,5,Deo,Fresh Scent,2.24,72,4.6
+2020-05-28,6,Clorox wipe,Clorox dis-infecting wipes,4.48,19,4.6
+2020-05-28,7,Crisp,Crisp Lemon,4.58,46,4.9
+2020-05-28,8,Deo,Fresh Scent,4.48,105,4.7
+2020-05-28,9,Clorox wipe,Clorox dis-infecting wipes,4.58,61,4.8
+2020-05-28,10,Crisp,Crisp Lemon,2.24,59,4.3
+2020-05-28,11,Deo,Fresh Scent,3.68,31,4.7
+2020-06-28,12,Clorox wipe,Clorox dis-infecting wipes,3.68,46,4.7
+2020-06-28,13,Crisp,Crisp Lemon,2.48,0,0.0
+2020-06-28,14,Deo,Fresh Scent,2.48,14,4.5
+2020-06-28,15,Clorox wipe,Clorox dis-infecting wipes,3.98,111,4.7
+2020-06-28,16,Crisp,Crisp Lemon,4.48,17,4.4
+2020-06-28,17,Deo,Fresh Scent,3.98,44,4.7
+2020-06-28,18,Clorox wipe,Clorox dis-infecting wipes,3.98,12,4.1
+2020-06-28,19,Crisp,Crisp Lemon,3.98,60,4.9
+2020-06-28,20,Deo,Fresh Scent,2.5,33,3.3
+2020-06-28,1,Clorox wipe,Clorox dis-infecting wipes,4.48,203,4.8
+2020-06-28,2,Crisp,Crisp Lemon,3.98,51,4.6
+2020-07-28,3,Deo,Fresh Scent,2.24,72,4.6
+2020-07-28,4,Clorox wipe,Clorox dis-infecting wipes,2.48,0,0.0
+2020-07-28,5,Crisp,Crisp Lemon,3.52,185,4.8
+2020-07-28,6,Deo,Fresh Scent,3.98,61,4.8
+2020-07-28,7,Clorox wipe,Clorox dis-infecting wipes,2.74,41,4.4
+2020-07-28,8,Crisp,Crisp Lemon,3.98,123,4.8
+2020-07-28,9,Deo,Fresh Scent,4.5,60,4.0
+2020-07-28,10,Clorox wipe,Clorox dis-infecting wipes,3.74,25,4.7
+2020-07-28,11,Crisp,Crisp Lemon,3.68,46,4.7
+2020-07-28,12,Deo,Fresh Scent,3.74,24,4.8
+2020-08-28,13,Clorox wipe,Clorox dis-infecting wipes,3.74,49,4.7
+2020-08-28,14,Crisp,Crisp Lemon,2.78,17,4.6
+2020-08-28,15,Deo,Fresh Scent,2.82,17,4.8
+2020-08-28,16,Clorox wipe,Clorox dis-infecting wipes,3.98,60,4.9
+2020-08-28,17,Crisp,Crisp Lemon,2.5,33,3.3
+2020-08-28,18,Deo,Fresh Scent,5.76,45,4.9
+2020-08-28,19,Clorox wipe,Clorox dis-infecting wipes,2.42,16,4.8
+2020-08-28,20,Crisp,Crisp Lemon,2.98,31,4.4
+2020-08-28,21,Clorox wipe,Clorox dis-infecting wipes,3.98,60,4.9
+2020-08-28,22,Crisp,Crisp Lemon,2.5,33,3.3
+2020-08-28,23,Deo,Fresh Scent,5.76,45,4.9
+2020-08-28,24,Clorox wipe,Clorox dis-infecting wipes,3.98,60,4.9
+2020-08-28,25,Crisp,Crisp Lemon,2.5,33,3.3
+2020-08-28,26,Deo,Fresh Scent,5.76,45,4.9
+2020-08-28,27,Clorox wipe,Clorox dis-infecting wipes,3.98,60,4.9
+2020-08-28,28,Crisp,Crisp Lemon,2.5,33,3.3
+2020-09-28,29,Deo,Fresh Scent,5.76,45,4.9
+2020-09-28,30,Clorox wipe,Clorox dis-infecting wipes,3.98,60,4.9
+2020-09-28,31,Crisp,Crisp Lemon,2.5,33,3.3
+2020-09-28,32,Deo,Fresh Scent,5.76,45,4.9
+2020-09-28,33,Clorox wipe,Clorox dis-infecting wipes,3.98,60,4.9
+2020-09-28,34,Crisp,Crisp Lemon,2.5,33,3.3
+2020-09-28,35,Deo,Fresh Scent,5.76,45,4.9
+2020-09-28,36,Clorox wipe,Clorox dis-infecting wipes,3.98,60,4.9
+2020-09-28,37,Crisp,Crisp Lemon,2.5,33,3.3
+2020-09-28,38,Deo,Fresh Scent,5.76,45,4.9
+2020-09-28,39,Clorox wipe,Clorox dis-infecting wipes,3.98,60,4.9
+2020-09-28,40,Crisp,Crisp Lemon,2.5,33,3.3
+2020-10-28,1,Crisp,Crisp Lemon,4.9,60,4.9
+2020-10-28,2,Deo,Fresh Scent,3.3,33,3.3
+2020-10-28,3,Clorox wipe,Clorox dis-infecting wipes,4.9,45,4.9
+2020-10-28,4,Crisp,Crisp Lemon,4.9,60,4.9
+2020-10-28,5,Clorox wipe,Clorox dis-infecting wipes,3.98,60,4.9
+2020-10-28,6,Crisp,Crisp Lemon,2.5,33,3.3
+2020-10-28,7,Deo,Fresh Scent,5.76,45,4.9
+2020-10-28,8,Clorox wipe,Clorox dis-infecting wipes,3.98,60,4.9
+2020-10-28,9,Clorox wipe,Clorox dis-infecting wipes,3.98,60,4.9
+2020-10-28,10,Crisp,Crisp Lemon,2.5,33,3.3
+2020-10-28,11,Deo,Fresh Scent,5.76,45,4.9
+2020-10-28,12,Clorox wipe,Clorox dis-infecting wipes,3.98,60,4.9
+2020-10-28,13,Clorox wipe,Clorox dis-infecting wipes,3.98,60,4.9
+2020-11-28,1,Clorox wipe,Clorox dis-infecting wipes,3.98,60,4.9
+2020-11-28,1,Crisp,Crisp Lemon,2.5,33,4.9
+2020-11-28,1,Deo,Fresh Scent,5.76,45,4.9
+2020-11-28,1,Clorox wipe,Clorox dis-infecting wipes,3.98,60,4.9
+2020-11-28,1,Crisp,Crisp Lemon,2.5,33,4.9
+2020-11-28,1,Deo,Fresh Scent,5.76,45,4.9
+2020-11-28,1,Clorox wipe,Clorox dis-infecting wipes,3.98,60,4.9
+2020-11-28,1,Crisp,Crisp Lemon,2.5,33,4.9
+2020-11-28,1,Deo,Fresh Scent,5.76,45,4.9
+2020-11-28,1,Clorox wipe,Clorox dis-infecting wipes,3.98,60,4.9
+2020-11-28,1,Crisp,Crisp Lemon,2.5,33,4.9
+2020-11-28,1,Deo,Fresh Scent,5.76,45,4.9
+2020-11-28,1,Clorox wipe,Clorox dis-infecting wipes,3.98,60,4.9
+2020-11-28,1,Crisp,Crisp Lemon,2.5,33,4.9
+2020-11-28,1,Deo,Fresh Scent,5.76,45,4.9
+2020-11-28,1,Clorox wipe,Clorox dis-infecting wipes,3.98,60,4.9
+2020-11-28,1,Crisp,Crisp Lemon,2.5,33,4.9
+2020-11-28,1,Deo,Fresh Scent,5.76,45,4.9
+2020-12-28,1,Clorox wipe,Clorox dis-infecting wipes,3.98,60,4.9
+2020-12-28,3,Crisp,Crisp Lemon,2.5,33,2020-12-28
+2020-12-28,4,Deo,Fresh Scent,5.76,45,2020-12-28
+2020-12-28,5,Clorox wipe,Clorox dis-infecting wipes,3.98,60,2020-12-28
+2020-12-28,2,Crisp,Crisp Lemon,2.5,33,2020-12-28
+2020-12-28,5,Deo,Fresh Scent,5.76,45,2020-12-28
+2020-12-28,4,Clorox wipe,Clorox dis-infecting wipes,3.98,60,2020-12-28
+2020-12-28,13,Crisp,Crisp Lemon,2.5,33,2020-12-28
+2020-12-28,14,Deo,Fresh Scent,5.76,45,2020-12-28
+2020-12-28,1,Clorox wipe,Clorox dis-infecting wipes,3.98,60,2020-12-28
+2020-12-28,12,Crisp,Crisp Lemon,2.5,33,2020-12-28
+2020-12-28,17,Deo,Fresh Scent,5.76,45,2020-12-28
+2020-12-28,3,Clorox wipe,Clorox dis-infecting wipes,3.98,60,2020-12-28
+2020-12-28,4,Crisp,Crisp Lemon,2.5,33,2020-12-28
+2020-12-28,5,Deo,Fresh Scent,5.76,45,2020-12-28
+2020-12-28,2,Clorox wipe,Clorox dis-infecting wipes,3.98,60,2020-12-28
+2020-12-28,5,Crisp,Crisp Lemon,2.5,33,2020-12-28
+2020-12-28,4,Deo,Fresh Scent,5.76,45,2020-12-28
+2020-12-28,13,Clorox wipe,Clorox dis-infecting wipes,3.98,60,2020-12-28
+2020-12-28,14,Crisp,Crisp Lemon,2.5,33,2020-12-28
+2020-12-28,2,Crisp,Crisp Lemon,2.5,33,3.3
+2020-12-28,3,Deo,Fresh Scent,5.76,45,4.9
+2020-12-28,4,Clorox wipe,Clorox dis-infecting wipes,3.98,60,4.9
+2020-12-28,5,Crisp,Crisp Lemon,2.5,33,3.3
+2020-12-28,6,Deo,Fresh Scent,5.76,45,4.9
+2020-12-28,7,Clorox wipe,Clorox dis-infecting wipes,3.98,60,4.9
+2020-12-28,8,Crisp,Crisp Lemon,2.5,33,3.3
+2020-12-28,9,Deo,Fresh Scent,5.76,45,4.9
+2020-12-28,0,Clorox wipe,Clorox dis-infecting wipes,3.98,60,4.9
+2020-12-28,11,Crisp,Crisp Lemon,2.5,33,3.3
+2020-12-28,12,Deo,Fresh Scent,5.76,45,4.9
+2020-12-28,13,Clorox wipe,Clorox dis-infecting wipes,3.98,60,4.9
+2020-12-28,14,Crisp,Crisp Lemon,2.5,33,3.3
+2020-12-28,15,Deo,Fresh Scent,5.76,45,4.9
+2020-12-28,10,Clorox wipe,Clorox dis-infecting wipes,3.98,60,4.9
+2020-12-28,2,Crisp,Crisp Lemon,2.5,33,3.3
+2020-12-28,3,Deo,Fresh Scent,5.76,45,4.9
+2020-12-28,14,Clorox wipe,Clorox dis-infecting wipes,3.98,60,4.9
+2020-12-28,2,Crisp,Crisp Lemon,2.5,33,3.3
+2020-12-28,1,Deo,Fresh Scent,5.76,45,4.9
+2020-12-28,1,Clorox wipe,Clorox dis-infecting wipes,3.98,60,4.9
+2020-12-28,4,Crisp,Crisp Lemon,2.5,33,3.3
+2020-12-28,1,Deo,Fresh Scent,5.76,45,4.9
+2020-12-28,4,Clorox wipe,Clorox dis-infecting wipes,3.98,60,4.9
+2020-12-28,1,Crisp,Crisp Lemon,2.5,33,3.3
+2020-12-28,1,Deo,Fresh Scent,5.76,45,4.9
+2020-12-28,2,Clorox wipe,Clorox dis-infecting wipes,3.98,60,4.9
+2020-12-28,1,Crisp,Crisp Lemon,2.5,33,3.3
+2020-12-28,3,Deo,Fresh Scent,5.76,45,4.9
+2020-12-28,1,Clorox wipe,Clorox dis-infecting wipes,3.98,60,4.9
+2020-12-28,4,Crisp,Crisp Lemon,2.5,33,3.3
+2020-12-28,13,Deo,Fresh Scent,5.76,45,4.9
+2020-12-28,14,Clorox wipe,Clorox dis-infecting wipes,3.98,60,4.9
+2020-12-28,1,Crisp,Crisp Lemon,2.5,33,3.3
+2020-12-28,12,Deo,Fresh Scent,5.76,45,4.9
+2020-12-28,17,Clorox wipe,Clorox dis-infecting wipes,3.98,60,4.9
+2020-12-28,3,Crisp,Crisp Lemon,2.5,33,3.3
+2020-12-28,4,Deo,Fresh Scent,5.76,45,4.9
+2020-12-28,5,Clorox wipe,Clorox dis-infecting wipes,3.98,60,4.9
+2020-12-28,2,Crisp,Crisp Lemon,2.5,33,3.3
+2020-12-28,5,Deo,Fresh Scent,5.76,45,4.9
+2020-12-28,4,Clorox wipe,Clorox dis-infecting wipes,3.98,60,4.9
+2020-12-28,13,Crisp,Crisp Lemon,2.5,33,3.3
+2020-12-28,14,Deo,Fresh Scent,5.76,45,4.9
+2020-12-28,1,Clorox wipe,Clorox dis-infecting wipes,3.98,60,4.9
+2020-12-28,12,Crisp,Crisp Lemon,2.5,33,3.3
+2020-12-28,17,Deo,Fresh Scent,5.76,45,4.9
+2020-12-28,3,Clorox wipe,Clorox dis-infecting wipes,3.98,60,4.9
+2020-12-28,4,Crisp,Crisp Lemon,2.5,33,3.3
+2020-12-28,5,Deo,Fresh Scent,5.76,45,4.9
+2020-12-28,2,Clorox wipe,Clorox dis-infecting wipes,3.98,60,4.9
+2020-12-28,5,Crisp,Crisp Lemon,2.5,33,3.3
+2020-12-28,4,Deo,Fresh Scent,5.76,45,4.9
+2020-12-28,13,Clorox wipe,Clorox dis-infecting wipes,3.98,60,4.9
+2020-12-28,14,Crisp,Crisp Lemon,2.5,33,3.3
+2020-12-28,1,Deo,Fresh Scent,5.76,45,4.9
+2020-12-28,12,Clorox wipe,Clorox dis-infecting wipes,3.98,60,4.9
+2020-12-28,17,Crisp,Crisp Lemon,2.5,33,3.3
+2020-12-28,3,Deo,Fresh Scent,5.76,45,4.9
+2020-12-28,4,Clorox wipe,Clorox dis-infecting wipes,3.98,60,4.9
+2020-12-28,5,Crisp,Crisp Lemon,2.5,33,3.3
+2020-12-28,2,Deo,Fresh Scent,5.76,45,4.9
+2020-12-28,5,Clorox wipe,Clorox dis-infecting wipes,3.98,60,4.9
+2020-12-28,4,Crisp,Crisp Lemon,2.5,33,3.3
+2020-12-28,13,Deo,Fresh Scent,5.76,45,4.9
+2020-12-28,14,Clorox wipe,Clorox dis-infecting wipes,3.98,60,4.9
+2020-12-28,1,Crisp,Crisp Lemon,2.5,33,3.3
+2020-12-28,12,Deo,Fresh Scent,5.76,45,4.9
+2020-12-28,17,Clorox wipe,Clorox dis-infecting wipes,3.98,60,4.9
+2020-12-28,3,Crisp,Crisp Lemon,2.5,33,3.3
+2020-12-28,4,Deo,Fresh Scent,5.76,45,4.9
+2020-12-28,5,Clorox wipe,Clorox dis-infecting wipes,3.98,60,4.9
+2020-12-28,2,Crisp,Crisp Lemon,2.5,33,3.3
+2020-12-28,5,Deo,Fresh Scent,5.76,45,4.9
+2020-12-28,4,Clorox wipe,Clorox dis-infecting wipes,3.98,60,4.9
+2020-12-28,13,Crisp,Crisp Lemon,2.5,33,3.3
+2020-12-28,14,Deo,Fresh Scent,5.76,45,4.9
+2020-12-28,1,Clorox wipe,Clorox dis-infecting wipes,3.98,60,4.9
+2020-12-28,12,Crisp,Crisp Lemon,2.5,33,3.3
+2020-12-28,17,Deo,Fresh Scent,5.76,45,4.9
+2020-12-28,3,Clorox wipe,Clorox dis-infecting wipes,3.98,60,4.9
+2020-12-28,4,Crisp,Crisp Lemon,2.5,33,3.3
+2020-12-28,5,Deo,Fresh Scent,5.76,45,4.9
+2020-12-28,2,Clorox wipe,Clorox dis-infecting wipes,3.98,60,4.9
+2020-12-28,5,Crisp,Crisp Lemon,2.5,33,3.3
+2020-12-28,4,Deo,Fresh Scent,5.76,45,4.9
+2020-12-28,13,Clorox wipe,Clorox dis-infecting wipes,3.98,60,4.9
+2020-12-28,14,Crisp,Crisp Lemon,2.5,33,3.3
